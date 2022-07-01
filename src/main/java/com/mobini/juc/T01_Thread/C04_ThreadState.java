@@ -1,11 +1,11 @@
-package com.mobini.juc.thread;
+package com.mobini.juc.T01_Thread;
 
 /**
  * @Description: 线程状态
  * @Author: Mobini
  * @Date: 2022-06-30
  */
-public class T04_ThreadState {
+public class C04_ThreadState {
     private static class MyThread extends Thread {
         @Override
         public void run() {

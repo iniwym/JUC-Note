@@ -1,4 +1,4 @@
-package com.mobini.juc.sync;
+package com.mobini.juc.T02_Synchronized;
 
 /**
  * @Description: 同步方法和非同步方法是否可以同时调用

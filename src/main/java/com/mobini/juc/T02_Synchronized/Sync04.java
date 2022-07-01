@@ -1,4 +1,4 @@
-package com.mobini.juc.sync;
+package com.mobini.juc.T02_Synchronized;
 
 /**
  * @Description: 预测一下输出结果

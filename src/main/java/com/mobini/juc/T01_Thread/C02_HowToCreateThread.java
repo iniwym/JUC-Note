@@ -1,11 +1,11 @@
-package com.mobini.juc.thread;
+package com.mobini.juc.T01_Thread;
 
 /**
  * @Description: 如何创建一个线程
  * @Author: Mobini
  * @Date: 2022-06-30
  */
-public class T02_HowToCreateThread {
+public class C02_HowToCreateThread {
     /**
      * 继承Thread类
      */

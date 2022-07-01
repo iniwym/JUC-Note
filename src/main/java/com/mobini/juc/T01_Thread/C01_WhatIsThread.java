@@ -1,4 +1,4 @@
-package com.mobini.juc.thread;
+package com.mobini.juc.T01_Thread;
 
 import org.junit.jupiter.api.Test;
 
@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
  * @Author: Mobini
  * @Date: 2022-06-30
  */
-public class T01_WhatIsThread {
+public class C01_WhatIsThread {
 
     private static class MyThread extends Thread {
         @Override

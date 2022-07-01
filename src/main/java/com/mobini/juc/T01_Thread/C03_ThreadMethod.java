@@ -1,4 +1,4 @@
-package com.mobini.juc.thread;
+package com.mobini.juc.T01_Thread;
 
 import java.util.concurrent.TimeUnit;
 
@@ -7,7 +7,7 @@ import java.util.concurrent.TimeUnit;
  * @Author: Mobini
  * @Date: 2022-06-30
  */
-public class T03_ThreadMethod {
+public class C03_ThreadMethod {
 
     public static void main(String[] args) {
         testSleep();
