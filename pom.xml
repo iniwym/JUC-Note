@@ -16,7 +16,12 @@
             <version>RELEASE</version>
             <scope>compile</scope>
         </dependency>
-
+        <!-- openjdk工具包 -->
+        <dependency>
+            <groupId>org.openjdk.jol</groupId>
+            <artifactId>jol-core</artifactId>
+            <version>0.9</version>
+        </dependency>
     </dependencies>
 
     <build>
